@@ -1,0 +1,36 @@
+body {
+    background-color: #4762dd;
+}
+
+h1 {
+    color: #11dd55;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+p {
+    color: #d3c7c7;
+    padding: 10px;
+    margin: 10px 0;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+header {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
